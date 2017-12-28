@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lista de Convidados</string>
+    <string name="hoje">Hoje</string>
+    <string name="data_do_evento">Data do evento</string>
+    <string name="sim">SIM</string>
+    <string name="confirmar_convite">Confirmar convite</string>
 </resources>
