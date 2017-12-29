@@ -1,4 +1,4 @@
-package com.example.user.listaconvidados;
+package com.example.user.listaconvidados.views;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.user.listaconvidados.R;
 
 import static com.example.user.listaconvidados.R.id.button_confirm;
 
